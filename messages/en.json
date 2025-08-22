@@ -1,0 +1,127 @@
+{
+  "navigation": {
+    "home": "Home",
+    "capabilities": "Capabilities",
+    "industries": "Industries",
+    "contact": "Contact",
+    "bookCall": "Book a Discovery Call",
+    "requestProposal": "Request a Proposal"
+  },
+  "hero": {
+    "headline": "Ship Real-World Web3 Products—Secure, Compliant, Fast",
+    "subheadline": "Tokenization, multi-sig treasuries, on-chain finance, user-owned social, and more—built on ICP, Ethereum/Base, and modern web.",
+    "bookCall": "Book a Discovery Call",
+    "requestProposal": "Request a Proposal"
+  },
+  "capabilities": {
+    "title": "What We Do",
+    "assetTokenization": {
+      "title": "Asset Tokenization",
+      "description": "Turn real-world/digital assets into tokens for fractional ownership, instant settlement, and programmable rules.",
+      "example": "Tokenize a $2M property into 20,000 units; auto-distribute rent monthly."
+    },
+    "multiSigWallet": {
+      "title": "Multi-Signature Wallet",
+      "description": "Role-based limits, thresholds, time-locks; remove single-point risk, create audit trails.",
+      "example": "CFO solo ≤$10k; $10k–$100k CFO+CEO; >$100k board vote."
+    },
+    "communication": {
+      "title": "Communication & Social",
+      "description": "User-owned data in personal canisters/contracts; E2E chat, token-gated feeds, wallet/II login.",
+      "example": "Private Slack alternative with encrypted messages stored per user."
+    },
+    "invoiceFactoring": {
+      "title": "Invoice Factoring",
+      "description": "Convert invoices to upfront cash via escrowed smart contracts; transparent risk for funders.",
+      "example": "$100k invoice, 85% advance; remainder released on payment minus fee."
+    },
+    "crowdfunding": {
+      "title": "Crowdfunding",
+      "description": "Milestone escrows, refunds, vesting, governance voting, regional KYC gates.",
+      "example": "Pre-order launch with milestone-based fund releases."
+    },
+    "nfts": {
+      "title": "NFTs & Fungible Tokens",
+      "description": "Membership passes, loyalty tokens, royalties, allowlists, airdrops, analytics, anti-bot.",
+      "example": "NFT membership with event access + resale royalties to treasury."
+    },
+    "digitalSigning": {
+      "title": "Digital Signing",
+      "description": "Legally binding e-sign with hash/timestamp anchored on-chain; private PDFs, verifiable integrity.",
+      "example": "Board resolutions signed via wallet; verifiable unchanged later."
+    },
+    "web3Email": {
+      "title": "Web3 Email",
+      "description": "Identity-linked inboxes, encryption, portable ownership, programmable filters.",
+      "example": "Investor relations inbox with exportable, verifiable comms."
+    }
+  },
+  "process": {
+    "title": "How It Works",
+    "discover": "Discover",
+    "architect": "Architect & Comply",
+    "build": "Build & Launch"
+  },
+  "stats": {
+    "mvpTime": "<30-day MVPs",
+    "auditReady": "Audit-ready flows",
+    "globalKyc": "Global KYC gates"
+  },
+  "industries": {
+    "title": "Industries We Serve",
+    "subtitle": "We translate Web3 into tangible outcomes for your vertical.",
+    "realEstate": {
+      "title": "Real Estate",
+      "description": "Fractional property tokens; rent distribution; multi-sig treasury."
+    },
+    "smeFinance": {
+      "title": "SME Finance",
+      "description": "On-chain invoice factoring; community working capital."
+    },
+    "creators": {
+      "title": "Creators & Media",
+      "description": "NFT memberships; token-gated content; fan governance."
+    },
+    "supplyChain": {
+      "title": "Supply Chain",
+      "description": "Tokenized inventory/receipts; milestone-based payments; signed docs."
+    },
+    "ngos": {
+      "title": "NGOs/DAOs",
+      "description": "Transparent donations; milestone releases; multi-sig spend."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Tell us your goals. We'll suggest the fastest compliant path to value.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "company": "Company",
+      "budget": "Budget Range",
+      "timeline": "Timeline",
+      "useCase": "Use Case",
+      "message": "Message",
+      "submit": "Send Message",
+      "privacy": "We never share your details."
+    },
+    "budgetOptions": {
+      "under50k": "Under $50k",
+      "50k100k": "$50k - $100k",
+      "100k250k": "$100k - $250k",
+      "over250k": "Over $250k"
+    },
+    "timelineOptions": {
+      "asap": "ASAP",
+      "1month": "1 Month",
+      "3months": "3 Months",
+      "6months": "6+ Months"
+    }
+  },
+  "caseStudy": {
+    "quokka": {
+      "title": "Quokka",
+      "description": "Web3 platform for influencers/streamers & fans with rewards + NFTs; DAO on ICP for community-driven scam protection."
+    }
+  }
+}
